@@ -11,6 +11,6 @@
             <forward name="success" path="welcome.jsp"/>
         </action>
     </action-mappings>
-    <message-resources parameter="info.java.tips.i18.MessageBundle"></message-resources>
+    <message-resources parameter="info.java.tips.i18n.MessageBundle"></message-resources>
 
 </struts-config>
