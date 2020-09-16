@@ -1,6 +1,9 @@
 # Struts
 Learning Struts Framework
 
+Requisites: 
+- Tomcat 9.0.37
+
 Web-history:
 - https://www.youtube.com/watch?v=YcCsJtqI72A
     - https://www.youtube.com/playlist?list=PLd3UqWTnYXOnAqaHdSWAg4B-Mjd_rD-7-
